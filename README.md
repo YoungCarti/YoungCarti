@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=youngcarti.youngcarti&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=youngcarti.youngcarti&left_color=black&left_text=you're%20visitor%20number"  />
 </div>
 
 ###
