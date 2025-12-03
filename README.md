@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on SkyComm AI<br><br>- 🌱 I’m currently learning Python<br><br>- 👯 I’m looking to collaborate on SaaS Project<br><br>- 👨‍💻 All of my projects are available at www.saabiresh.me<br><br>- 💬 Ask me about React, Typescript<br><br>- 📫 How to reach me saabireshdk@gmail.com<br><br>- ⚡ Fun fact i still learning to code</p>
+<p align="left">- 🔭 I’m currently working on FYP<br><br>- 🌱 I’m currently learning Python<br><br>- 👯 I’m looking to collaborate on SaaS Project<br><br>- 👨‍💻 All of my projects are available at www.saabiresh.me<br><br>- 💬 Ask me about React, Typescript<br><br>- 📫 How to reach me saabireshdk@gmail.com<br><br>- ⚡ Fun fact i still learning to code</p>
 
 ###
 
